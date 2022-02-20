@@ -1,0 +1,12 @@
+name: "asiaRblog"
+title: "AsiaR community blog"
+description: |
+  AsiaR community blog
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article
