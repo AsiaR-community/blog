@@ -1,1 +1,1 @@
-# blog
+# AsiaR Community Blog
