@@ -1,6 +1,6 @@
 ---
 title: "BioCAsia and `targets`"
-author: "Kozo Nishida"
+author: "AsiaR organizers"
 date: "2022-05-07"
 categories: [bioc, code, workflows, r-pkg]
 image: "image.jpg"
